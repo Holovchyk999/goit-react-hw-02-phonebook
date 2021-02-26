@@ -1,5 +1,6 @@
 .TaskList {
     width: 600px;
+    background-color: rgb(226, 43, 165);
   }
   
   .TaskList_item {
@@ -16,7 +17,7 @@
   }
   
   .TaskList_item.completed {
-    background-color: green;
+    background-color: rgb(55, 0, 128);
   }
   
   .TaskList_text {
@@ -29,11 +30,10 @@
   
   .TaskList_actions {
     display: flex;
-    justify-content: center;
-   
+    justify-content: center;   
   }
   
   .TaskList_button {
-    margin-right: 4px;
-    margin-left: 4px;
+    margin-right: 8px;
+    margin-left: 50px;
   }
