@@ -5,15 +5,15 @@
     "main.js.map": "/Holovchyk999/goit-react-hw-02-phonebook/static/js/main.badf19a4.chunk.js.map",
     "runtime-main.js": "/Holovchyk999/goit-react-hw-02-phonebook/static/js/runtime-main.53c982d0.js",
     "runtime-main.js.map": "/Holovchyk999/goit-react-hw-02-phonebook/static/js/runtime-main.53c982d0.js.map",
-    "static/js/2.e0d4039a.chunk.js": "/Holovchyk999/goit-react-hw-02-phonebook/static/js/2.e0d4039a.chunk.js",
-    "static/js/2.e0d4039a.chunk.js.map": "/Holovchyk999/goit-react-hw-02-phonebook/static/js/2.e0d4039a.chunk.js.map",
+    "static/js/2.42a12d9d.chunk.js": "/Holovchyk999/goit-react-hw-02-phonebook/static/js/2.42a12d9d.chunk.js",
+    "static/js/2.42a12d9d.chunk.js.map": "/Holovchyk999/goit-react-hw-02-phonebook/static/js/2.42a12d9d.chunk.js.map",
     "index.html": "/Holovchyk999/goit-react-hw-02-phonebook/index.html",
     "static/css/main.8e1e9ee5.chunk.css.map": "/Holovchyk999/goit-react-hw-02-phonebook/static/css/main.8e1e9ee5.chunk.css.map",
-    "static/js/2.e0d4039a.chunk.js.LICENSE.txt": "/Holovchyk999/goit-react-hw-02-phonebook/static/js/2.e0d4039a.chunk.js.LICENSE.txt"
+    "static/js/2.42a12d9d.chunk.js.LICENSE.txt": "/Holovchyk999/goit-react-hw-02-phonebook/static/js/2.42a12d9d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.53c982d0.js",
-    "static/js/2.e0d4039a.chunk.js",
+    "static/js/2.42a12d9d.chunk.js",
     "static/css/main.8e1e9ee5.chunk.css",
     "static/js/main.badf19a4.chunk.js"
   ]
